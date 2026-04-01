@@ -3,8 +3,9 @@ public class HelloWorld {
         System.out.println("Hello, Welcome to Java");
     }
 }
+
 class Greeting {
-    public static void main(String[] args) {
-        System.out.println("Hello, Shiva prasad");
+    static void main(String[] args) {
+        System.out.println("hi deepak");
     }
 }
