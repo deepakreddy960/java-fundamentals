@@ -1,7 +1,7 @@
 package com.java.fundamentals;
 
 public class Primitives {
-    public static void main(String[] args) {
+     static void main() {
 
         // byte
         byte age;

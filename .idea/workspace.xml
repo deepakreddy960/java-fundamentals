@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="19b6d83e-8497-4ada-84ee-ff78e571693c" name="Changes" comment="feat: Added primitive program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-fundamentals" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "deepakreddy960"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/deepakreddy960/java-fundamentals",
+    "accountId": "2edec271-0652-4fe7-9878-df927308c589"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
   &quot;fromUser&quot;: false
@@ -50,7 +63,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/java-workspace/java-fundamentals/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "vcs.log",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -83,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775213385972</updated>
       <workItem from="1775213387732" duration="948000" />
-      <workItem from="1775223616906" duration="1919000" />
+      <workItem from="1775223616906" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="feat: hello world class">
       <option name="closed" value="true" />
@@ -154,15 +167,6 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Primitives.java</url>
-          <line>3</line>
-          <properties class="com.java.fundamentals.Primitives" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
