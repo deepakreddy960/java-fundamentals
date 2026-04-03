@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19b6d83e-8497-4ada-84ee-ff78e571693c" name="Changes" comment="feat: Added primitive program" />
+    <list default="true" id="19b6d83e-8497-4ada-84ee-ff78e571693c" name="Changes" comment="feat: Added primitive program">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,7 @@
     "Application.Primitives.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -80,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775213385972</updated>
       <workItem from="1775213387732" duration="948000" />
-      <workItem from="1775223616906" duration="1273000" />
+      <workItem from="1775223616906" duration="1919000" />
     </task>
     <task id="LOCAL-00001" summary="feat: hello world class">
       <option name="closed" value="true" />
@@ -114,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775224592535</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: Added primitive program">
+      <option name="closed" value="true" />
+      <created>1775224957573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775224957573</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
