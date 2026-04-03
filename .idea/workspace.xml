@@ -51,6 +51,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Primitives" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.fundamentals.Primitives" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.fundamentals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Primitives" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="19b6d83e-8497-4ada-84ee-ff78e571693c" name="Changes" comment="" />
@@ -59,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775213385972</updated>
       <workItem from="1775213387732" duration="948000" />
-      <workItem from="1775223616906" duration="581000" />
+      <workItem from="1775223616906" duration="926000" />
     </task>
     <task id="LOCAL-00001" summary="feat: hello world class">
       <option name="closed" value="true" />
@@ -77,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775224180092</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: Added primitive program">
+      <option name="closed" value="true" />
+      <created>1775224311800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775224311800</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
