@@ -9,7 +9,7 @@ public class PriceCalculator {
         System.out.println("Enter Membership: Branus(B)/Silver(S)/Gold(G)/Diamond(D)");
         char membership = sc.next().charAt(0);
         System.out.println("Central tax : ");
-        int centralTax = sc.nextInt();46
+        int centralTax = sc.nextInt();
         System.out.println("Statetax : ");
         int stateTax = sc.nextInt();
         System.out.println("Enter Age");

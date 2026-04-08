@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19b6d83e-8497-4ada-84ee-ff78e571693c" name="Changes" comment="feat: Added primitive program">
-      <change afterPath="$PROJECT_DIR$/src/com/java/fundamentals/InputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/fundamentals/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/fundamentals/PriceCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="19b6d83e-8497-4ada-84ee-ff78e571693c" name="Changes" comment="feat: Operators added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +97,7 @@
       <updated>1775213385972</updated>
       <workItem from="1775213387732" duration="948000" />
       <workItem from="1775223616906" duration="4264000" />
-      <workItem from="1775633812294" duration="11003000" />
+      <workItem from="1775633812294" duration="11311000" />
     </task>
     <task id="LOCAL-00001" summary="feat: hello world class">
       <option name="closed" value="true" />
@@ -160,7 +155,31 @@
       <option name="project" value="LOCAL" />
       <updated>1775227763717</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: price calculator added">
+      <option name="closed" value="true" />
+      <created>1775647283241</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1775647283242</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: InputTest added">
+      <option name="closed" value="true" />
+      <created>1775647395907</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1775647395907</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: Operators added">
+      <option name="closed" value="true" />
+      <created>1775647463292</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1775647463292</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +199,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: hello world class" />
     <MESSAGE value="feat: Added primitive program" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Added primitive program" />
+    <MESSAGE value="feat: price calculator added" />
+    <MESSAGE value="feat: InputTest added" />
+    <MESSAGE value="feat: Operators added" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Operators added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
