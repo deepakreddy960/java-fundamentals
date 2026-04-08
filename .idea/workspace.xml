@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19b6d83e-8497-4ada-84ee-ff78e571693c" name="Changes" comment="feat: Added primitive program" />
+    <list default="true" id="19b6d83e-8497-4ada-84ee-ff78e571693c" name="Changes" comment="feat: Added primitive program">
+      <change afterPath="$PROJECT_DIR$/src/com/java/fundamentals/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/fundamentals/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/fundamentals/PriceCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "deepakreddy960"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;deepakreddy960&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/deepakreddy960/java-fundamentals",
-    "accountId": "2edec271-0652-4fe7-9878-df927308c589"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/deepakreddy960/java-fundamentals&quot;,
+    &quot;accountId&quot;: &quot;2edec271-0652-4fe7-9878-df927308c589&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
   &quot;fromUser&quot;: false
@@ -43,6 +48,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.InputTest.executor": "Run",
+    "Application.Operators.executor": "Run",
+    "Application.PriceCalculator.executor": "Run",
     "Application.Primitives.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -93,7 +101,8 @@
       <option name="presentableId" value="Default" />
       <updated>1775213385972</updated>
       <workItem from="1775213387732" duration="948000" />
-      <workItem from="1775223616906" duration="4112000" />
+      <workItem from="1775223616906" duration="4264000" />
+      <workItem from="1775633812294" duration="11003000" />
     </task>
     <task id="LOCAL-00001" summary="feat: hello world class">
       <option name="closed" value="true" />
@@ -143,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775227689302</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: Added primitive program">
+      <option name="closed" value="true" />
+      <created>1775227763717</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1775227763717</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
